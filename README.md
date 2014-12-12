@@ -1,3 +1,5 @@
+This is a fork of the ionic framework but with the intention of using React instead of Angular
+
 [![Circle CI](https://circleci.com/gh/driftyco/ionic.svg?style=svg)](https://circleci.com/gh/driftyco/ionic)
 
 
